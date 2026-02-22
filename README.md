@@ -92,6 +92,3 @@ Attribution example:
 > *Based on the Khoomei Vowel Texture Dataset by Lydia & Jenny (2026), released under the GNU Free Documentation License v1.3+.*
 
 No original *Pink Trombone* source or binaries are included. All parameter mappings are reconstructed and open for replication using free software.
-***
-
-Would you like this license block written as a standalone `LICENSE.txt` file too?
