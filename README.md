@@ -1,7 +1,7 @@
 # Khoomei Vowel Texture Dataset (2D)
 ## Vowel Backness (F1 x F2 parameters) via Pink Trombone Vocal Tract Model
 ### Gen AI Course Part 2, Assignment 1
-#### Team: studioelectronica (Lydia, Jenny)
+#### Team: StudioElectronica (Lydia, Jenny)
 ---
 
 ## Parameters
@@ -55,3 +55,5 @@ Mappings to Pink Trombone API:
 - CSV: 75 rows/second, two columns: `openness`, `backness`
 - `parameters.json` defines both parameters as continuous [0,1]
 
+## Contributions
+Contributions are welcome! Feel free to open an issue for suggestions or bug reports, or submit pull requests for improvements.
