@@ -174,7 +174,9 @@ Together they tile the full IPA vowel trapezoid.
 ## Contributions
 Contributions to our project are welcome! Feel free to open an issue for suggestions or bug reports, or submit pull requests for improvements.
 
+Jenny & Lydia
 ***
 
 **Generative AI Music**   
 musikalkemist/smc-musicgen-course  
+
